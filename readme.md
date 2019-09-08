@@ -31,8 +31,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 `php artisan jwt:secret`
 
 
+<hr>
 
+generate auth controller
 
-
-
-
+`php artisan make:controller AuthController`
