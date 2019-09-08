@@ -28,7 +28,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 <hr>
 
-
+`php artisan jwt:secret`
 
 
 
